@@ -15,8 +15,8 @@ GIF export: Generate animated GIFs of the simulation.
 Requirements
 
 Python Packages:
-> numpy
-> matplotlib
+- numpy
+- matplotlib
 - 🪐 Configurations:
   
 The project relies on additional Python files for predefined configurations:
@@ -40,9 +40,9 @@ How to Run
 
 Clone the repository or download all required files.
 Install dependencies:
-> pip install numpy matplotlib
+- pip install numpy matplotlib
 Run the script:
-> Verlet_Integrator.py
+- Verlet_Integrator.py
 Choose a configuration from the menu and specify the simulation time and time step.
 
 Menu Option:
