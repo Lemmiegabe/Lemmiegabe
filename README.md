@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Lemmiegabe
-- 👀 I’m interested in science fiction
-- 🌱 I’m currently learning Physics
 - 🔎 Overview: 	
 
 This Python project is an N-body simulation designed to model and visualize the gravitational interactions of celestial bodies using symplectic integration methods. It features a variety of predefined configurations, real-time visualization, and energy diagnostics.
